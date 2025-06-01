@@ -1,2 +1,2 @@
-# ist-folder
-first git repository.
+# 1st-folder
+ This is my first git repository.
